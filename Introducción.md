@@ -23,7 +23,7 @@ Por ejemplo, para instalar un paquete RPM en Rocky Linux, puedes usar el siguien
 
 ```bash
 sudo rpm -ivh nombre_del_paquete.rpm
-
+```
 
 ## LICENCIA
 ![Licencia](img/licencia.png)
