@@ -23,3 +23,7 @@ Rocky Linux es una distribución de Linux basada en Red Hat, diseñada especialm
 - **Compatibilidad:** Siendo binario-compatible con RHEL, Rocky Linux admite programas de Red Hat desde el principio, permitiendo la ejecución de código sin necesidad de recompilarlo. Además, es compatible con diversas arquitecturas, como CentOS.
 
 *Nota: Este resumen utiliza formato Markdown para una presentación clara y estructurada.*
+
+
+## LICENCIA
+![Licencia](img/licencia.png)
