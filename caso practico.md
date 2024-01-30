@@ -31,3 +31,8 @@
     # O
     sudo dnf remove el_paquete
     ```
+
+
+    
+## LICENCIA
+![Licencia](img/licencia.png)
