@@ -1,9 +1,25 @@
-# ¿Que es rocky linux?
-Rocky Linux es una distribución de Linux basada en red hat , especialmente adecuada para servidores y aplicaciones de escritorio.
-El sistema operativo es de código abierto.
-Rocky Linux se considera el sucesor no oficial de CentOS, un fork de RHEL(Red Hat Enterprise Linux).
-El sistema operativo es adecuado para una variedad de usos diferentes y es una solución estable y fácil de usar tanto para empresas como para particulares.
-La Rocky Enterprise Software Foundation es la responsable de esta distribución de Linux.
+# ¿Qué es Rocky Linux?
 
-## Caracteristicas
+Rocky Linux es una distribución de Linux basada en Red Hat, diseñada especialmente para servidores y aplicaciones de escritorio. Este sistema operativo de código abierto se considera el sucesor no oficial de CentOS, siendo un fork de Red Hat Enterprise Linux (RHEL).
 
+## Características
+
+- **Interfaz gráfica de usuario (GUI):** Rocky Linux cuenta con una interfaz de usuario (UI) robusta, especialmente útil para aquellos usuarios menos familiarizados con la línea de comandos.
+
+- **Entorno de escritorio:** Utiliza GNOME 40 como entorno de escritorio predeterminado, ofreciendo una experiencia de usuario moderna y amigable.
+
+- **Sistema de archivos XFS:** Diseñado para manejar grandes volúmenes de datos sin comprometer el rendimiento, lo que hace que Rocky Linux sea ideal para servidores y matrices de almacenamiento.
+
+- **Empaquetado de módulos:** Soporta varios sistemas de gestión de paquetes como Flatpaks y RPM Package Manager, facilitando la instalación y uso de paquetes preferidos por los desarrolladores.
+
+- **Supervisión del sistema:** Compatible con la consola web Cockpit para la supervisión del rendimiento, identificando problemas relacionados con el uso anormal de recursos y red.
+
+## Ventajas
+
+- **Estabilidad:** Como descendiente de RHEL, Rocky Linux destaca por su estabilidad al utilizar características y código previamente probados en el upstream RHEL.
+
+- **Código abierto:** Al ser un sistema operativo de código abierto, los usuarios pueden acceder libremente a su código y utilizar el sistema de compilación Peridot para recrear la distribución desde cero.
+
+- **Compatibilidad:** Siendo binario-compatible con RHEL, Rocky Linux admite programas de Red Hat desde el principio, permitiendo la ejecución de código sin necesidad de recompilarlo. Además, es compatible con diversas arquitecturas, como CentOS.
+
+*Nota: Este resumen utiliza formato Markdown para una presentación clara y estructurada.*
