@@ -6,4 +6,4 @@ Aqui hablaremos sobre los paquetes RPM, Rocky linux,etc
 
 ## ÍNDICE
 1. [Introduccion](introduccion.md)
-2. [Distribucion de rocky linux](Distribucion Rocky Linux.md)
+2. [Distribucion de rocky linux](Distribucion_Rocky_Linux.md)
