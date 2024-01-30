@@ -5,7 +5,8 @@
     sudo dnf update
     ```
 
-    ![Licencia](img/imagen_2024-01-30_221557034.png)
+   ![Licencia](img/imagen_2024-01-30_221557034.png)
+
     ![Licencia](img/imagen_2024-01-30_221754537.png)
    
 
