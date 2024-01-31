@@ -4,7 +4,7 @@ Aqui hablaremos sobre los paquetes RPM, Rocky linux,etc
 ![Rocky Linux Logo](img/RockyLinux.png)
 
 
-## ÍNDICE
+# ÍNDICE
 1. [Introduccion](Introducción.md)
 2. [Distribucion de rocky linux](Distribución_Rocky_Linux.md)
 3. [Repositorios](Repositorios.md)
