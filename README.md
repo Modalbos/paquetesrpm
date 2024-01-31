@@ -12,6 +12,7 @@ Aqui hablaremos sobre los paquetes RPM, Rocky linux,etc
 5. [Webgrafia](webgrafia.md)
 
 ## Autor
+Ildefonso Sanchez Romero
 
 ## LICENCIA
 ![Licencia](img/licencia.png)
