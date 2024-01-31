@@ -9,4 +9,4 @@ Aqui hablaremos sobre los paquetes RPM, Rocky linux,etc
 2. [Distribucion de rocky linux](Distribución_Rocky_Linux.md)
 3. [Repositorios](Repositorios.md)
 4. [Caso practico](caso_practico.md)
-5. [Webgrafia]()
+5. [Webgrafia](webgrafia.md)
